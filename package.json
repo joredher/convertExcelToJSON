@@ -1,0 +1,14 @@
+{
+  "name": "convertexceltojson",
+  "version": "1.0.0",
+  "description": "Convertir un archivo excel to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joredher",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
